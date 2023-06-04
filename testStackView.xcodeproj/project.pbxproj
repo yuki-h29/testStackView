@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2363DE7F2A2C17FB006131ED /* StackViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2363DE7E2A2C17FB006131ED /* StackViewCell.swift */; };
 		23BAA6972A263E8400027F1B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BAA6962A263E8400027F1B /* AppDelegate.swift */; };
 		23BAA6992A263E8400027F1B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BAA6982A263E8400027F1B /* SceneDelegate.swift */; };
 		23BAA69B2A263E8400027F1B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BAA69A2A263E8400027F1B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2363DE7E2A2C17FB006131ED /* StackViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewCell.swift; sourceTree = "<group>"; };
 		23BAA6932A263E8400027F1B /* testStackView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testStackView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23BAA6962A263E8400027F1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23BAA6982A263E8400027F1B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				23BAA6982A263E8400027F1B /* SceneDelegate.swift */,
 				23BAA69A2A263E8400027F1B /* ViewController.swift */,
 				23BAA69C2A263E8400027F1B /* Main.storyboard */,
+				2363DE7E2A2C17FB006131ED /* StackViewCell.swift */,
 				23BAA69F2A263E8A00027F1B /* Assets.xcassets */,
 				23BAA6A12A263E8A00027F1B /* LaunchScreen.storyboard */,
 				23BAA6A42A263E8A00027F1B /* Info.plist */,
@@ -141,6 +144,7 @@
 				23BAA69B2A263E8400027F1B /* ViewController.swift in Sources */,
 				23BAA6972A263E8400027F1B /* AppDelegate.swift in Sources */,
 				23BAA6992A263E8400027F1B /* SceneDelegate.swift in Sources */,
+				2363DE7F2A2C17FB006131ED /* StackViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
